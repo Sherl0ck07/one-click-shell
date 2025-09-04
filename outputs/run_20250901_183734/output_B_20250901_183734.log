@@ -1,0 +1,13 @@
+2025-09-01 18:37:34,066 [INFO] Resume Path: C:\Users\imjad\Desktop\Resumes\Pandurang Jadhav Data Scientist Resume 14-07-2025.pdf
+2025-09-01 18:37:34,067 [INFO] Username: pandurang.jadhav.4404@gmail.com
+2025-09-01 18:37:34,067 [INFO] Output File Path: C:\Users\imjad\Desktop\case study\st\oneClickShell\outputs\run_20250901_183734\job_crawl_summary_B_20250901_183734.html
+2025-09-01 18:37:37,981 [INFO] Using device: cpu
+2025-09-01 18:37:37,984 [INFO] Use pytorch device_name: cpu
+2025-09-01 18:37:37,984 [INFO] Load pretrained SentenceTransformer: TechWolf/JobBERT-v2
+2025-09-01 18:37:45,973 [INFO] Resume Extracted
+2025-09-01 18:37:48,221 [INFO] Login successful!
+2025-09-01 18:37:53,231 [INFO] Links: [[150, 'https://www.naukri.com/machine-learning-devops-data-scientist-jobs?k=machine%20learning%2C%20devops%2C%20data%20scientist&experience=3&nignbevent_src=jobsearchDeskGNB']]
+2025-09-01 19:34:47,258 [INFO] Total scraped jobs: 2965
+2025-09-01 19:34:47,260 [INFO] Starting similarity scoring...
+2025-09-01 19:46:54,424 [INFO] Similarity scoring completed.
+2025-09-01 19:46:58,778 [INFO] Job data JSON saved at C:\Users\imjad\Desktop\case study\st\oneClickShell\outputs\run_20250901_183734\job_data_20250901_183734.json
