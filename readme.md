@@ -18,7 +18,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/oneClickShell.git
+   git clone [https://github.com/yourusername/oneClickShell.git](https://github.com/Sherl0ck07/one-click-shell.git)
    cd oneClickShell
    ```
 
